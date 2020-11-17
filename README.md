@@ -1,10 +1,11 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Bootcamp everis FullStack Developer
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Recriando a página inicial do Instagram "Dark Mode"
+Foram abordados neste projeto o conceito sobre CSS Flexbox e responsividade.
 
-### Os requisitos são:
+### Os requisitos para aplicar são:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+## Agradecimentos: Digital Innovation One
