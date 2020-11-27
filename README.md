@@ -8,4 +8,4 @@ Foram abordados neste projeto o conceito sobre CSS Flexbox e responsividade.
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## Agradecimentos: Digital Innovation One
+## Fonte: Digital Innovation One
